@@ -1,9 +1,9 @@
 {
-  "name": "“ichigo”",
+  "name": "ichigo",
   "version": "0.0.0",
   "private": true,
-  "author": "“shoNagai”",
-  "description": "“simobe”",
+  "author": "sho",
+  "description": "simobe",
   "dependencies": {
     "hubot": "^2.19.0",
     "hubot-diagnostics": "0.0.1",
